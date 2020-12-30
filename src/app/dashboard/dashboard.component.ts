@@ -7,7 +7,7 @@ import {Component} from '@angular/core';
 
     selector:'app-dashboard',
     templateUrl: './dashboard.component.html',
-    styles: ['h1{ color: red;}']
+    styleUrls: ['./dashboard.component.css']
 
 })
 
